@@ -42,9 +42,9 @@ const Featured = () => {
                 className='bg-white rounded-lg shadow-md overflow-hidden'
               >
                 <img
-                  src='/public/img/img-1.png'
+                  src='/img/img-1.png'
                   alt='...'
-                  className='w-full h-48 object-cover'
+                  className='w-full h-48 object-cover cursor-pointer'
                 />
                 <div className='p-6'>
                   <h3 className='text-lg font-semibold text-gray-800 mb-2'>
