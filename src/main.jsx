@@ -15,6 +15,7 @@ import './index.css';
 import App from './App.jsx';
 import Home from './Pages/Home/Home.jsx';
 import Blogs from './Pages/Blogs/Blogs.jsx';
+import ErrorPage from './Pages/Err/ErrorPage.jsx';
 
 // this setup only testing purpose using //
 // SETUP ROUTER
@@ -23,6 +24,7 @@ const router = createBrowserRouter(
     <Route path='/' element={<App />}>
       <Route index={true} element={<Home />} />
       <Route path='/blogs' element={<Blogs />} />
+      <Route path='*' element={<ErrorPage />} />
     </Route>
   )
 );

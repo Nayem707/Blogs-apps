@@ -14,5 +14,5 @@ This is a professional blog site template built with React and Tailwind CSS.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/my-react-blog.git
+   git clone https://github.com/Nayem707/Blogs-apps.git
    ```
