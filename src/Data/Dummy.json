@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding React Hooks",
+    "author": "John Doe",
+    "date": "2024-01-15",
+    "image": "https://via.placeholder.com/400x300",
+    "excerpt": "React Hooks simplify state management and side effects in functional components.",
+    "content": "React Hooks were introduced in React 16.8 and they bring the power of state and lifecycle features to functional components. This allows developers to avoid using class components for many common use cases..."
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with Tailwind CSS",
+    "author": "Jane Smith",
+    "date": "2024-01-10",
+    "image": "https://via.placeholder.com/400x300",
+    "excerpt": "Tailwind CSS is a utility-first framework that enables faster UI development.",
+    "content": "Tailwind CSS is a utility-first CSS framework for rapidly building custom designs. It provides low-level utility classes that let you compose your own UI without writing any CSS. For example, instead of writing custom styles, you use classes like `bg-blue-500`, `text-center`, and `flex` to achieve your desired result..."
+  },
+  {
+    "id": 3,
+    "title": "Mastering JavaScript Closures",
+    "author": "Alice Johnson",
+    "date": "2024-01-05",
+    "image": "https://via.placeholder.com/400x300",
+    "excerpt": "Closures are a powerful feature of JavaScript, enabling function factories and more.",
+    "content": "A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In simpler terms, closures allow a function to access variables outside of its immediate scope. This can be particularly useful for things like function factories, data encapsulation, and callbacks..."
+  },
+  {
+    "id": 4,
+    "title": "State Management with Redux",
+    "author": "Mark Wilson",
+    "date": "2024-01-01",
+    "image": "https://via.placeholder.com/400x300",
+    "excerpt": "Redux is a predictable state container for JavaScript apps.",
+    "content": "Redux is a library for managing global state in JavaScript applications. It is often used with React but can be integrated with any UI framework. The core concepts of Redux include a single store, actions, and reducers. These ensure that your state changes are predictable and easy to debug..."
+  },
+  {
+    "id": 5,
+    "title": "A Guide to Responsive Design",
+    "author": "Sophia Lee",
+    "date": "2023-12-25",
+    "image": "https://via.placeholder.com/400x300",
+    "excerpt": "Responsive design ensures your website looks great on all devices.",
+    "content": "Responsive design is an approach to web design that ensures a website looks good and functions well on all devices, from desktops to smartphones. It involves using flexible layouts, media queries, and scalable images. Techniques like mobile-first design and fluid grids play a crucial role in creating a responsive user experience..."
+  }
+]
